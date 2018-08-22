@@ -1,7 +1,7 @@
 ### Illumination-aware Faster R-CNN for Robust Multispectral Pedestrian Detection
 Editted by Chengyang Li, Zhejiang University.
 
-<img src="figures/motivation.png" width="800px" height="500px"/>
+<img src="figures/pipeline.png" width="800px" height="500px"/>
 
 ### Detection performance
 
